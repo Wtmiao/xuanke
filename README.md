@@ -15,6 +15,7 @@
 三、实验过程   
 1、流程图
 ![](https://github.com/Wtmiao/xuanke/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191208230744.png)
+
 2、代码
 JLabel a = new JLabel("请选择课程：");
 	JButton r = new JButton("确定");
